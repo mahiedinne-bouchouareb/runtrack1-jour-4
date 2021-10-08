@@ -1,0 +1,32 @@
+
+body 
+{
+     background-color:rgb(28, 241, 74);
+}
+     h1 {
+
+    color: BLACK ;
+
+    
+}
+.imagetop{
+display: flex;
+justify-content: space-evenly;
+padding: 5%;
+}
+    
+
+p {
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    color: Black(255, 71, 71);
+    
+}
+
+lu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+.ptop{text-align:right ;
+
+}
+
